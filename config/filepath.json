@@ -1,0 +1,4 @@
+{
+  "train_base_path": "../data/Train.csv",
+  "test_base_path": "../data/Test.csv"
+}

@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/customer_segmentation/src/mlruns/0/c51edbaf55d443a180c3f5431b9dbb61/artifacts
+end_time: 1647584432189
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: c51edbaf55d443a180c3f5431b9dbb61
+run_uuid: c51edbaf55d443a180c3f5431b9dbb61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1647584429539
+status: 3
+tags: []
+user_id: Kylo Ren
